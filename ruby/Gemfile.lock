@@ -8,9 +8,9 @@ GEM
   remote: https://rubygems.org/
   specs:
     diff-lcs (1.4.4)
-    ethon (0.14.0)
-      ffi (>= 1.21.0)
-    ffi (1.15.1)
+    ethon (0.16.0)
+      ffi (>= 1.15.0)
+    ffi (1.16.3)
     rake (13.0.6)
     rspec (3.10.0)
       rspec-core (~> 3.10.0)
