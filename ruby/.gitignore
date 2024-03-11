@@ -8,9 +8,10 @@
 /tmp/
 *.gem
 
-lib/svix/api
-lib/svix/models
-lib/svix/api_client.rb
-lib/svix/api_error.rb
-lib/svix/configuration.rb
+# Let's commit these so we don't need a build step
+# lib/svix/api
+# lib/svix/models
+# lib/svix/api_client.rb
+# lib/svix/api_error.rb
+# lib/svix/configuration.rb
 .openapi-generator
